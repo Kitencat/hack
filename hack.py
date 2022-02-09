@@ -10,7 +10,7 @@ from discord.ext import commands
 async def on_ready():
     print('Logged on as {0}!'.format(self.user))
 
-TOKEN = 'OTI3MTI3NjMxMzc4MzgyOTI4.YdFs5A.h0zjZQz6-lWttA7gNrgbZkcP5aU'
+TOKEN = 'OTM3MjMyOTQ4MjA0MzA2NDUy.YfYwMw.-WiD1gdbzRBz1qt9tqH9j8FUqts '
 
 
 bot = commands.Bot(command_prefix='!')
@@ -68,4 +68,4 @@ async def on_ready():
     print('------')
 
 
-bot.run('OTI3MTI3NjMxMzc4MzgyOTI4.YdFs5A.h0zjZQz6-lWttA7gNrgbZkcP5aU')
+bot.run('OTM3MjMyOTQ4MjA0MzA2NDUy.YfYwMw.-WiD1gdbzRBz1qt9tqH9j8FUqts')
